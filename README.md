@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Jack of all trades, master of curiosity Here to explore all things tech
+Jack of all trades, master of curiosity - here to explore all things tech in the amazing world of software engineering
 
 * 🌍  I'm based in Chennai, Tamil Nadu
 * ✉️  You can contact me at [nishantrajamani@gmail.com](mailto:nishantrajamani@gmail.com)
