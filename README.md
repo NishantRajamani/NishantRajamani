@@ -44,10 +44,10 @@ My work sits at the intersection of:
 ## 🛠 Tech Stack
 
 **Languages:** Python, SQL, Java  
-**ML:** Transformers, PyTorch, Time Series (Prophet)  
+**ML:** Transformers, PyTorch, Time Series 
 **Data:** Spark, Airflow  
 **Infra:** Docker, Kubernetes, Azure  
-**CI/CD:** Jenkins, GitHub Actions  
+**CI/CD:** Jenkins, SonarQube, Github, Artifactory
 
 ---
 
