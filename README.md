@@ -32,7 +32,7 @@ My work sits at the intersection of:
 ### 📊 Financial Forecasting Pipeline (Thesis)
 - End-to-end ML pipeline for forecasting SME financials
 - Covers ingestion, preprocessing, model training, and automated retraining
-- Built using Python, Prophet, and structured data workflows
+- Built using Python, Catboost, and structured data workflows
 
 ### 🤖 LLM Architecture Comparison
 - Compared specialist vs generalist models for code generation
